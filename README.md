@@ -6,7 +6,7 @@ Este proyecto fue hecho en 4 días porque estaba muy aburrido. Los 2 primeros d�
 
 El objetivo de este proyecto es poder mostrar una proyección bidimensional de un objeto tridimensional.
 
-La proyección se muestra en el plano X-Y y con una profundidad Z. **Por el momento** formas de proyección más complejas no pueden ser mostradas (se me acaba de ocurrir una manera en lo que escribo esto).
+La proyección se muestra en el plano X-Y y con una profundidad Z. **Por el momento** formas de proyección más complejas no pueden ser mostradas.
 
 ## Ejecución:
 
