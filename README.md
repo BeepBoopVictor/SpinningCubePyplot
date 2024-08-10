@@ -10,7 +10,7 @@ La proyección se muestra en el plano X-Y y con una profundidad Z. **Por el mome
 
 ## Ejecución:
 
-Mira tú quieres hacer girar algo. Facilito. Te vas al segundo chunk, pones tus coordenadas para generar el objeto y yaesta. El objeto (obj) es una lista de listas donde cada lista representa un plano.
+Te vas al segundo chunk, pones tus coordenadas para generar el objeto y yaesta. El objeto (obj) es una lista de listas donde cada lista representa un plano.
 
-Venga ciao. XOXO
+Venga.
 
